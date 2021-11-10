@@ -4,7 +4,7 @@ This project wants to show three simple react components for three different nav
 
 ![Topbar](./src/assets/images/topbar.png)
 ![Sidebar](./src/assets/images/sidebar.png)
-![Bottombar](./src/assets/images/bottombar.png)
+![Bottombar](./src/assets/images/tabbar.png)
 
 ## Available Scripts
 
